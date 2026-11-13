@@ -7,6 +7,8 @@
     - mail: chenyuge25@shphschool.com
 - Pronouns: she/her
 - shph'28 IBer
-From 6941/10541 IronPulse/CarbonPulse Robotics
-Robotics / Climber
-randomly uploading stuff here, I'm dumb so my coworker is the great GPT 6-astra and GPT 6.1-sol so don't blame me on doing vibe coding okay QwQ
+- From 6941/10541 IronPulse/CarbonPulse Robotics
+- Robotics / Climber
+
+- Randomly uploading stuff here
+- I'm dumb so my coworker is the great GPT 6-astra and GPT 6.1-sol so don't blame me on doing vibe coding okay QwQ

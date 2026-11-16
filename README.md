@@ -12,3 +12,6 @@
 
 - Randomly uploading stuff here
 - I'm dumb so my coworker is the great GPT 6-astra and GPT 6.1-sol so don't blame me on doing vibe coding okay QwQ
+
+Wanna check all my work?
+Here 🔜 https://pigeon6941.github.io/climbing-base/
